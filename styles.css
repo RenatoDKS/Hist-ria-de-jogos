@@ -26,6 +26,7 @@ h3 {
   border-radius: 10px;
   transition: transform 0.2s;
   border: white 1px solid;
+  object-fit: cover;
 }
 
 .img2 {
@@ -38,6 +39,7 @@ h3 {
   border-radius: 10px;
   transition: transform 0.2s;
   border: white 1px solid;
+  object-fit: cover;
 }
 
 p {
