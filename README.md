@@ -4,12 +4,6 @@ The "Gaming Legends: The Greatest Hits" webpage provides information on the hist
 
 <img src="/screenshot.png" alt="Screenshot of the project">
 
-## Project Structure
-
-- **`index.html`**: The main HTML file containing the structure and content of the game histories.
-- **`games.css`**: The CSS file used to style the HTML content, ensuring a consistent and visually appealing layout.
-- **`assets/`**: Directory containing images and other multimedia resources used in the project.
-
 ## Features
 
 - **Game Information**: Displays game titles, platforms, developers, genres, and an embedded video for each game.
