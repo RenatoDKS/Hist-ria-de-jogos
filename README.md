@@ -20,7 +20,7 @@ To get started with this project, follow these steps:
 
 2. **Navigate to the Project Directory**:
     ```sh
-    cd history-of-games
+    cd gaming-legends
     ```
 
 3. **Open the `index.html` File**:
